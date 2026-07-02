@@ -108,4 +108,4 @@
 
 ### 📊 Estatísticas
 
-[![Romeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=trapporomeu)](https://github.com/trapporomeu/github-readme-stats)
+[![Romeu's GitHub Stats](https://github-stats-extended.vercel.app/api?username=trapporomeu)](https://github.com/stats-organization/github-stats-extended)
