@@ -108,6 +108,6 @@
 
 ### 📊 Estatísticas
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=trapporomeu&rank_icon=github&custom_title=Romeu's%20GitHub%20Status&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=trapporomeu&rank_icon=github&custom_title=Romeu's%20GitHub%20Status&show_icons=true&include_all_commits=true&theme=tokyonight) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=trapporomeu&layout=donut&langs_count=8&theme=dracula&lang=pt)](https://github-stats-extended.vercel.app/api/top-langs?username=trapporomeu&layout=donut&langs_count=8&theme=dracula)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=trapporomeu&rank_icon=github&custom_title=Romeu's%20GitHub%20Status&show_icons=true&include_all_commits=true&theme=tokyonight&language=pt-br)](https://github-stats-extended.vercel.app/api?username=trapporomeu&rank_icon=github&custom_title=Romeu's%20GitHub%20Status&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 
