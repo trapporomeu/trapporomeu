@@ -109,3 +109,8 @@
 ### 📊 Estatísticas
 
 [![Romeu's GitHub Stats](https://github-stats-extended.vercel.app/api?username=trapporomeu)](https://github.com/stats-organization/github-stats-extended)
+
+with:
+  card: top-langs
+  options: username=trapporomeu&layout=compact&langs_count=6
+  token: ${{ secrets.GITHUB_TOKEN }}
