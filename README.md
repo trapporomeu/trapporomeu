@@ -108,4 +108,4 @@
 
 ### 📊 Estatísticas
 
-[![Aline Espindola](https://github-readme-stats.vercel.app/api?username=trapporomeu&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/trapporomeu)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=trapporomeu&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/trapporomeu)
