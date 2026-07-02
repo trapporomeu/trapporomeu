@@ -108,6 +108,6 @@
 
 ### 📊 Estatísticas
 
-[![Romeu's GitHub Stats](https://github-stats-extended.vercel.app/api?username=trapporomeu&theme=dracula&lang=pt-br)](https://github.com/stats-organization/github-stats-extended)  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=trapporomeu&layout=donut&langs_count=8&theme=dracula&lang=pt-br)](https://github-stats-extended.vercel.app/api/top-langs?username=trapporomeu&layout=donut&langs_count=8&theme=dracula)
+[![Romeu's GitHub Stats](https://github-stats-extended.vercel.app/api?username=trapporomeu&theme=dracula&lang=pt-br)](https://github.com/stats-organization/github-stats-extended)  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=trapporomeu&layout=donut&langs_count=8&theme=dracula&lang=pt)](https://github-stats-extended.vercel.app/api/top-langs?username=trapporomeu&layout=donut&langs_count=8&theme=dracula)
 
 
