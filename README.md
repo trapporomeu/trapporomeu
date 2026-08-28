@@ -10,11 +10,11 @@
             src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
         />
     </a>
-    <a href="https://www.youtube.com/@trapporomeu">
+    <a href="https://www.instagram.com/trapporomeu">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="instagram" 
+            title="Instagram" 
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
         />
     </a> 
     <a href="https://github.com/trapporomeutab=repositories&sort=stargazers">
