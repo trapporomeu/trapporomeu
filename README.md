@@ -3,32 +3,39 @@
 **`Desenvolvedor / Web Designer`**
 
 <p align="left">
-    <a href="https://www.youtube.com/@trapporomeu?sub_confirmation=1">
+    <a href="https://www.youtube.com/@trapporomeu?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/trapporomeu">
+    <a href="https://www.instagram.com/trapporomeu" target="_blank" rel="noopener noreferrer">
         <img 
             alt="instagram" 
             title="Instagram" 
             src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/trapporomeutab=repositories&sort=stargazers">
+    <a href="https://github.com/trapporomeutab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/trapporomeu?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/trapporomeu?tab=followers">
+    <a href="https://github.com/trapporomeu?tab=followers" target="_blank" rel="noopener noreferrer">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/trapporomeu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://romeuportfolio.vercel.app" target="_blank" rel="noopener noreferrer">
+        <img 
+            alt="website" 
+            title="WebSite" 
+            src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"
         />
     </a>
 </p>
