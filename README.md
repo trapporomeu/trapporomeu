@@ -1,6 +1,6 @@
 # 👨‍💻 Romeu Carvalho
 
-**`Desenvolvedor`**
+**`Desenvolvedor / Web Designer`**
 
 <p align="left">
     <a href="https://www.youtube.com/@trapporomeu?sub_confirmation=1">
