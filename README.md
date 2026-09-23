@@ -1,4 +1,4 @@
-# 👨‍💻 Romeu Carvalho
+# 🧑‍💻 Romeu Carvalho
 
 **`Desenvolvedor / Web Designer`**
 
